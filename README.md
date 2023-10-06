@@ -5,6 +5,7 @@
   <title>Giới thiệu bản thân</title>
 </head>
 <body>
-  <h1>Họ và tên: Trần Thị Như Ý</h1>
-  <h2>Mã số sinh viên: B2012005</h2>
+  <h1> Trần Thị Như Ý</h1>
+#Mã số sinh viên: B2012005
+echo "de tai nhom Y"
 </body>
