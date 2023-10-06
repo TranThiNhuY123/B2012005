@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Giới thiệu bản thân</title>
+ 
 </head>
 <body>
   <h1>Họ và tên: Trần Thị Như Ý</h1>
