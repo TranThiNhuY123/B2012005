@@ -2,5 +2,5 @@
 =Trần Thị Như Ý
 #Trần Thị Như Ý
 #Mã số sinh viên: B2012005
-echo "Hệ thống quản lý bán thức ăn gia súc"
+Đề tài nhóm 2 "Hệ thống quản lý bán thức ăn gia súc"
 
